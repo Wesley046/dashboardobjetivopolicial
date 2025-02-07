@@ -1,0 +1,24 @@
+{
+  "name": "dashboardobjetivopolicial",
+  "version": "1.0.0",
+  "description": "Dashboard dos alunos do objetivo policial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wesley046/dashboardobjetivopolicial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wesley046/dashboardobjetivopolicial/issues"
+  },
+  "homepage": "https://github.com/Wesley046/dashboardobjetivopolicial#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
